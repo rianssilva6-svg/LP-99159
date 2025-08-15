@@ -24,3 +24,6 @@ cd nome-do-repositorio
 
 ```
 code .
+
+## Durante a aula
+
